@@ -1,0 +1,10 @@
+Data/
+Papers/
+Practice_Code/tensorboard_logs/
+Practice_Code/saved_models/
+Saved_models/
+tmp/
+
+*.ipynb_checkpoints
+*.DS_Store
+*.pyc
