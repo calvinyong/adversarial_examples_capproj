@@ -14,6 +14,7 @@ For the notebook, please look in the [Final_notebook](https://gitlab.com/calvinp
 
 11/12/18: Notebook is finished.
 12/01/18: Moved from gitlab to github.
+2/12/19: Add extra decision boundary pictures
 
 ## Contents of Repo
 
