@@ -10,7 +10,7 @@ I did not know anything about neural networks (NN) or deep learning before this 
 
 Welcome to the repo for my adversarial examples capstone project, for the Masters of Science in Mathematical Finance (MSMF) program. I made a jupyter notebook that was intended for deep learning beginners, which surveyed a couple of attacks, illustrated key properties of adversarial examples using toy examples, and visualized them.
 
-For the notebook, please look in the [Final_notebook](https://gitlab.com/calvinpyong/GANs-capstone-project/tree/master/Final_notebook) folder
+For the notebook, please look in the [Final_notebook](https://github.com/calvinyong/adversarial_examples_capproj/blob/master/Final_notebook/Adversarial_Examples.ipynb) folder
 
 11/12/18: Notebook is finished.
 12/01/18: Moved from gitlab to github.
